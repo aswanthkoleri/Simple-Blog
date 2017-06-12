@@ -18,7 +18,9 @@ To run the blog locally follow these steps :-
 - `npm install hexo-cli -g`
 - `npm install`
 - `cd simple-blog`
+- `npm install`
 - `hexo server`
+
 Now to visit the blog Type `localhost:4000` in the address bar of your browser.
 
 ## To create new post 
@@ -29,6 +31,7 @@ Now to visit the blog Type `localhost:4000` in the address bar of your browser.
 - Your first post is ready 
 
 ## Screenshots
+![screenshot.gif](https://github.com/aswanthkoleri/Simple-Blog/blob/master/screenshot.gif)
 
 ## Development
 Those who want to post in this blog can post by following the above mentioned steps and send the  PR accordingly.
