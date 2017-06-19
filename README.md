@@ -14,10 +14,8 @@ This is a simple blog where you can create,post and edit blog post's.The working
 ## Installation 
 To run the blog locally follow these steps :-
 - Clone the repo 
-- `cd Simple-blog` 
-- `npm install hexo-cli -g`
-- `npm install`
 - `cd simple-blog`
+- `npm install hexo-cli -g`
 - `npm install`
 - `hexo server`
 
